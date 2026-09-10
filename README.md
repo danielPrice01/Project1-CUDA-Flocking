@@ -6,7 +6,7 @@ Project 1 - Flocking**
 * Tested on: Windows 11, AMD Ryzen 9 7950X @ 4.50GHz 64GB, NVIDIA GeForce RTX 4070 12.0GB
 
 ![Screenshot](images/Boids Screenshot.png)
-![GIF](images/Boids GIF.gif)
+![GIF](images/Boids Gif.gif)
 
 ---
 ### Graphs
