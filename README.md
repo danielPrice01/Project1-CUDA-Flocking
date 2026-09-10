@@ -5,17 +5,19 @@ Project 1 - Flocking**
   * [LinkedIn](https://www.linkedin.com/in/daniel-d-price/)
 * Tested on: Windows 11, AMD Ryzen 9 7950X @ 4.50GHz 64GB, NVIDIA GeForce RTX 4070 12.0GB
 
-![Screenshot](images/Boids Screenshot.png)
-![GIF](images/Boids Gif.gif)
+![Screenshot](images/Boids%20Screenshot.png)
+![GIF](images/Boids%20Gif.gif)
+
+
 
 ---
 ### Graphs
 FPS measurement is taken from the average of 10s of the Window Title after frame rate has stabilized. 
 
-![Graph1](images/Boid Count vs FPS - Visualization On.png)
-![Graph2](images/Boid Count vs FPS - Visualization Off.png)
-![Graph3](images/Block Size vs FPS.png)
-![Graph4](images/8-Cell vs 27-Cell.png)
+![Graph1](images/Boid%20Count%20vs%20FPS%20-%20Visualization%20On.png)
+![Graph2](images/Boid%20Count%20vs%20FPS%20-%20Visualization%20Off.png)
+![Graph3](images/Block%20Size%20vs%20FPS.png)
+![Graph4](images/8-Cell%20vs%2027-Cell.png)
 
 ---
 ### Questions
